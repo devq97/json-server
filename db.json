@@ -1,16 +1,137 @@
 {
-  "posts":[
+  "responsables": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "nameResp": "Daniel Lozano",
+      "estadoResp": 0,
+      "nameAsig": "César Torres",
+      "estadoAsig": 0
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "nameResp": "Daniel Lozano",
+      "estadoResp": 1,
+      "nameAsig": "César Torres",
+      "estadoAsig": 0
+    },
+    {
+      "id": 3,
+      "nameResp": "Daniel Lozano",
+      "estadoResp": 0,
+      "nameAsig": "César Torres",
+      "estadoAsig": 0
+    },
+    {
+      "id": 4,
+      "nameResp": "David Cajamarca",
+      "estadoResp": 0,
+      "nameAsig": "Nelson Garcés",
+      "estadoAsig": 1
+    },
+    {
+      "id": 5,
+      "nameResp": "Sebastián Montes",
+      "estadoResp": 0,
+      "nameAsig": "Sebastián Palacios",
+      "estadoAsig": 2
+    },
+    {
+      "id": 6,
+      "nameResp": "Sebastián Montes",
+      "estadoResp": 0,
+      "nameAsig": "Sebastián Palacios",
+      "estadoAsig": 1
+    },
+    {
+      "id": 7,
+      "nameResp": "Sebastián Montes",
+      "estadoResp": 0,
+      "nameAsig": "Sebastián Palacios",
+      "estadoAsig": 0
+    },
+    {
+      "id": 8,
+      "nameResp": "Alejandro Fernandez",
+      "estadoResp": 0,
+      "nameAsig": "Freddy Toro",
+      "estadoAsig": 0
+    },
+    {
+      "id": 9,
+      "nameResp": "Jonny Santafe",
+      "estadoResp": 0,
+      "nameAsig": "Luis Chaparro",
+      "estadoAsig": 0
+    },
+    {
+      "id": 10,
+      "nameResp": "Diana Bautista",
+      "estadoResp": 0,
+      "nameAsig": "Sara Lopez",
+      "estadoAsig": 0
+    },
+    {
+      "id": 11,
+      "nameResp": "Gina",
+      "estadoResp": 0,
+      "nameAsig": "Sara Rivera",
+      "estadoAsig": 0
+    },
+    {
+      "id": 12,
+      "nameResp": "Carolina Benavides",
+      "estadoResp": 0,
+      "nameAsig": "Camila Gómez",
+      "estadoAsig": 0
+    },
+    {
+      "id": 13,
+      "nameResp": "Nelly Cogollo",
+      "estadoResp": 0,
+      "nameAsig": "Katerin",
+      "estadoAsig": 0
+    },
+    {
+      "id": 14,
+      "nameResp": "Paula Bermudez",
+      "estadoResp": 0,
+      "nameAsig": "Tatiana Fuertes",
+      "estadoAsig": 0
+    },
+    {
+      "id": 15,
+      "nameResp": "Sofía Chaparro",
+      "estadoResp": 0,
+      "nameAsig": "Alejandra",
+      "estadoAsig": 0
+    },
+    {
+      "id": 16,
+      "nameResp": "Lina Palacios",
+      "estadoResp": 0,
+      "nameAsig": "Mabel",
+      "estadoAsig": 0
+    },
+    {
+      "id": 17,
+      "nameResp": "Marina Bautista",
+      "estadoResp": 0,
+      "nameAsig": "María Buitrago",
+      "estadoAsig": 0
+    },
+    {
+      "id": 18,
+      "nameResp": "Osiris Cogollo",
+      "estadoResp": 0,
+      "nameAsig": "Leidy Niño",
+      "estadoAsig": 0
+    },
+    {
+      "id": 19,
+      "nameResp": "Paula Torres",
+      "estadoResp": 0,
+      "nameAsig": "Ana María Niño",
+      "estadoAsig": 0
     }
   ]
 }
